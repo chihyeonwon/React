@@ -1,1 +1,1 @@
-export const baseUrl = "http://www.oneflix.link";
+export const baseUrl = "https://www.oneflix.link";
